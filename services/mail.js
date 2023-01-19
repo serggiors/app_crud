@@ -1,5 +1,5 @@
 const sendMail = async (email, data) => {
-  //  Enviar mail
+  //  Enviar mail serggio.rs@gmail.com
 }
 
 export default {
